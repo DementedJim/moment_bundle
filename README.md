@@ -1,2 +1,2 @@
 # moment_bundle
-Демо
+<script src="./bundle.js"></script>
